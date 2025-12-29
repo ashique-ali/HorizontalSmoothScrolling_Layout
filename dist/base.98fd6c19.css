@@ -85,8 +85,6 @@ a:focus {
 	position: relative;
 	z-index: 1000;
 	text-transform: uppercase;
-	background: red;
-	margin-bottom: 5rem;
 }
 
 .frame__title {
